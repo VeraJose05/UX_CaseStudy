@@ -87,6 +87,7 @@ Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
 -----
 
 Por un lado tenemos a Alfredo Martínez es un joven relacionado con la tecnología que quiere descubrir nuevas recetas sanas
+Por otro tenemos a Ángeles Chavez, una ama de casa y dependienta de una verdulería que quiere indagar mucho más en el mundo gastronómico
 ![](P1/capturas-personas//Persona%201.png)
 ![](P1/capturas-personas//Persona%202.png)
 
@@ -101,7 +102,6 @@ El porqué de la segunda experiencia viene de querer representar una persona con
 ![](P1/capturas-personas//Journey%20map%201.png)
 ![](P1/capturas-personas//Journey%202.png)
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
 ### 1.e Usability Review
@@ -110,8 +110,10 @@ El porqué de la segunda experiencia viene de querer representar una persona con
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+>>> - URL y Valoración numérica obtenida: 75
+
+>>> - Comentario sobre la revisión: Los puntos fuertes son la navegación, el uso de imagenes para hacer todo más facil de reconocer y la funcionalidad general de la página, pero sufre mucho en el apartado de la búsqueda de
+>>> - elementos, donde todo depende de un único motor de búsqueda sin filtros, y de la falta de texto adicional o ayuda para comprender que es posible hacer en cada parte de la página.
 
 <br>
 
