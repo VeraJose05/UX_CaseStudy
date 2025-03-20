@@ -60,11 +60,11 @@ Nos permitirá saber cual es el punto de vista de alguien que no ha estado inmer
 
 * La duración de las entrevistas dependerá del entrevistado, ya que la información que se espera sacar de cada participante será distinta.
 
-* Las preguntas realizadas durante la entrevista incluirán temas como:
-¿Cómo describirías la oferta gastronómica actual en tu negocio o en la región?
-¿Cuáles son las tendencias actuales en gastronomía y degustación que crees que están marcando el mercado?
-¿Qué preguntas o comentarios hacen con más frecuencia los clientes sobre la comida o las bebidas?
-¿Cuáles son tus expectativas cuando visitas un lugar gastronómico nuevo?
+* Las preguntas realizadas durante la entrevista incluirán temas como:\
+¿Cómo describirías la oferta gastronómica actual en tu negocio o en la región?\
+¿Cuáles son las tendencias actuales en gastronomía y degustación que crees que están marcando el mercado?\
+¿Qué preguntas o comentarios hacen con más frecuencia los clientes sobre la comida o las bebidas?\
+¿Cuáles son tus expectativas cuando visitas un lugar gastronómico nuevo?\
 
 
 
@@ -72,7 +72,13 @@ Nos permitirá saber cual es el punto de vista de alguien que no ha estado inmer
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
+
+* **Granada Cooking Experience**: ofrece talleres de cocina diseñados para que los participantes desarrollen sus habilidades culinarias y disfruten de experiencias gastronómicas únicas.
+
+* * **Pilsaeduca**: ofrece talleres y cursos de cocina prácticos dirigidos a todos los niveles, desde principiantes hasta profesionales. Destaca por su enfoque en la formación práctica y personalizada, adaptándose a las necesidades de cada participante y ofreciendo experiencias gastronómicas enriquecedoras.
+
+* * **Aptitü**: se especializa en la organización de eventos gastronómicos y en la formación culinaria. Ofrece una amplia variedad de talleres y cursos de cocina dirigidos tanto a particulares como a empresas
 
 
 ### 1.c Personas
