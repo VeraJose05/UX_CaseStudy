@@ -93,6 +93,10 @@ Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
 ![Método UX](img/JourneyMap.png) 
 ----
 
+El porqué de la segunda experiencia viene de querer representar una persona con conocimientos medios en el campo pero que nunca ha realizado ningún taller de gastronomía, pero tiene interés en ello. Estas experiencias suelen ser habituales ya que
+uno de los grupos principales de dichos talleres suelen ser personas con nivel medio cuya experiencia es la primera y suelen tener muchisimas dudas, miedos, nervios, ansiedad, etc...
+
+
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
