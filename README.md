@@ -22,14 +22,7 @@ Logotipo:
 Miembros:
  * :bust_in_silhouette: [ Jose Vera Castillo ](https://github.com/VeraJose05)    :octocat:     
  * :bust_in_silhouette: [ David Pérez Tobarra](https://github.com/ParadoxalGlitch)     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
 
 # Proceso de Diseño 
 
@@ -44,7 +37,33 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+> Propósitos y metas
+Esta investigación se centrará en adquirir información sobre el tema de la gastronomía/ocio de degustación.
+
+Con esta investigación se busca obtener conocimientos básicos sobre dicho tema, ya que los conocimientos con los que partimos sobre este tema son nulos.
+
+
+> Participantes de la investigación
+Estamos hablando del campo de la Gastronomía por lo que la cantidad de personas que pueden interesarnos y de la que podemos obtener información sobre este tema es bastante extensa e incluye:
+
+* Dueños de comercios relacionados con la gastronomía o expertos en el campo
+Estos nos permitirán obtener un conocimiento base sobre el tema y el punto de vista del emprendedor en el campo de la gastronomía.
+* Empleados de dichos comercios
+Nos ofrecerá una vista similar a la anterior.
+* Clientes habituales de dichos comercios
+Nos permitirá obtener el punto de vista del usuario sobre el campo, saber qué es lo que el usuario típico quiere y necesita normalmente.
+* Potenciales consumidores de estos servicios, como por ejemplo turistas.
+Nos permitirá saber cual es el punto de vista de alguien que no ha estado inmerso en el campo pero tiene interés en él.
+
+
+> Métodos y Procedimientos a usar
+* Se realizarán entrevistas a los potenciales participantes listados arriba (ya sean espontáneas o acordadas de antemano). 
+
+* La duración de las entrevistas dependerá del entrevistado, ya que la información que se espera sacar de cada participante será distinta.
+
+* Las preguntas realizadas durante la entrevista incluirán temas como:
+(...)
+
 
 
 ### 1.b Competitive Analysis
