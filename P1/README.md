@@ -1,5 +1,8 @@
 ## DIU - Practica1, entregables
 
+Miembros
+
+### Repositorio GitHub: https://github.com/VeraJose05/UX_CaseStudy
 
 - Desk research: Análisis Competencia 
 - 2 Personas 
@@ -11,7 +14,6 @@
 >>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
 
 ### User Reseach Plan
-![Método UX](img/Competitive.png) 
 -----
 
 ### Propósitos y metas
@@ -46,7 +48,6 @@ Nos permitirá saber cual es el punto de vista de alguien que no ha estado inmer
 
 
 ### Competitive Analysis
-![Método UX](img/Competitive.png) 
 -----
 
 Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
@@ -57,24 +58,19 @@ Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
 
 * **Aptitü**: se especializa en la organización de eventos gastronómicos y en la formación culinaria. Ofrece una amplia variedad de talleres y cursos de cocina dirigidos tanto a particulares como a empresas
 
-[Competitive_Analysis PDF](P1/Competitor_Analysis.pdf)
-
 ### Personas
-![Método UX](img/Persona.png) 
 -----
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
 ### User Journey Map
-![Método UX](img/JourneyMap.png) 
 ----
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
 ### Usability Review
-![Método UX](img/usabilityReview.png) 
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
