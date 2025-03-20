@@ -76,10 +76,11 @@ Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
 
 * **Granada Cooking Experience**: ofrece talleres de cocina diseñados para que los participantes desarrollen sus habilidades culinarias y disfruten de experiencias gastronómicas únicas.
 
-* * **Pilsaeduca**: ofrece talleres y cursos de cocina prácticos dirigidos a todos los niveles, desde principiantes hasta profesionales. Destaca por su enfoque en la formación práctica y personalizada, adaptándose a las necesidades de cada participante y ofreciendo experiencias gastronómicas enriquecedoras.
+* **Pilsaeduca**: ofrece talleres y cursos de cocina prácticos dirigidos a todos los niveles, desde principiantes hasta profesionales. Destaca por su enfoque en la formación práctica y personalizada, adaptándose a las necesidades de cada participante y ofreciendo experiencias gastronómicas enriquecedoras.
 
-* * **Aptitü**: se especializa en la organización de eventos gastronómicos y en la formación culinaria. Ofrece una amplia variedad de talleres y cursos de cocina dirigidos tanto a particulares como a empresas
+* **Aptitü**: se especializa en la organización de eventos gastronómicos y en la formación culinaria. Ofrece una amplia variedad de talleres y cursos de cocina dirigidos tanto a particulares como a empresas
 
+[Competitive_Analysis PDF](P1/Competitor_Analysis.pdf)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
