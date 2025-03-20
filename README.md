@@ -87,7 +87,7 @@ Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
 -----
 
 Por un lado tenemos a Alfredo Martínez es un joven relacionado con la tecnología que quiere descubrir nuevas recetas sanas
-![](P1/cpaturas-personas//Persona%201.png)
+![](P1/capturas-personas//Persona%201.png)
 
 
 ### 1.d User Journey Map
@@ -97,7 +97,7 @@ Por un lado tenemos a Alfredo Martínez es un joven relacionado con la tecnolog�
 Alfredo tiene que ir a granada para un partido de balonmano y quiere descubrir nuevas recetas saludables del sur
 El porqué de la segunda experiencia viene de querer representar una persona con conocimientos medios en el campo pero que nunca ha realizado ningún taller de gastronomía, pero tiene interés en ello. Estas experiencias suelen ser habituales ya que uno de los grupos principales de dichos talleres suelen ser personas con nivel medio cuya experiencia es la primera y suelen tener muchisimas dudas, miedos, nervios, ansiedad, etc...
 
-![](P1/cpaturas-personas//Journey%20map%201.png)
+![](P1/capturas-personas//Journey%20map%201.png)
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
