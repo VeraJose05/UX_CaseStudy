@@ -37,13 +37,13 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-> Propósitos y metas
+### Propósitos y metas
 Esta investigación se centrará en adquirir información sobre el tema de la gastronomía/ocio de degustación.
 
 Con esta investigación se busca obtener conocimientos básicos sobre dicho tema, ya que los conocimientos con los que partimos sobre este tema son nulos.
 
 
-> Participantes de la investigación
+### Participantes de la investigación
 Estamos hablando del campo de la Gastronomía por lo que la cantidad de personas que pueden interesarnos y de la que podemos obtener información sobre este tema es bastante extensa e incluye:
 
 * Dueños de comercios relacionados con la gastronomía o expertos en el campo
@@ -55,14 +55,16 @@ Nos permitirá obtener el punto de vista del usuario sobre el campo, saber qué 
 * Potenciales consumidores de estos servicios, como por ejemplo turistas.
 Nos permitirá saber cual es el punto de vista de alguien que no ha estado inmerso en el campo pero tiene interés en él.
 
-
-> Métodos y Procedimientos a usar
+### Métodos y Procedimientos a usar
 * Se realizarán entrevistas a los potenciales participantes listados arriba (ya sean espontáneas o acordadas de antemano). 
 
 * La duración de las entrevistas dependerá del entrevistado, ya que la información que se espera sacar de cada participante será distinta.
 
 * Las preguntas realizadas durante la entrevista incluirán temas como:
-(...)
+¿Cómo describirías la oferta gastronómica actual en tu negocio o en la región?
+¿Cuáles son las tendencias actuales en gastronomía y degustación que crees que están marcando el mercado?
+¿Qué preguntas o comentarios hacen con más frecuencia los clientes sobre la comida o las bebidas?
+¿Cuáles son tus expectativas cuando visitas un lugar gastronómico nuevo?
 
 
 
