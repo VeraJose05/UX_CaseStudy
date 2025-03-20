@@ -1,7 +1,8 @@
 ## DIU - Practica1, entregables
 
-Miembros
-
+Miembros:
+ * :bust_in_silhouette: [ Jose Vera Castillo ](https://github.com/VeraJose05)    :octocat:     
+ * :bust_in_silhouette: [ David Pérez Tobarra](https://github.com/ParadoxalGlitch)     :octocat:
 ### Repositorio GitHub: https://github.com/VeraJose05/UX_CaseStudy
 
 - Desk research: Análisis Competencia 
@@ -14,7 +15,6 @@ Miembros
 >>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
 
 ### User Reseach Plan
------
 
 ### Propósitos y metas
 Esta investigación se centrará en adquirir información sobre el tema de la gastronomía/ocio de degustación.
@@ -48,7 +48,6 @@ Nos permitirá saber cual es el punto de vista de alguien que no ha estado inmer
 
 
 ### Competitive Analysis
------
 
 Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
 
@@ -59,19 +58,16 @@ Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
 * **Aptitü**: se especializa en la organización de eventos gastronómicos y en la formación culinaria. Ofrece una amplia variedad de talleres y cursos de cocina dirigidos tanto a particulares como a empresas
 
 ### Personas
------
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
 ### User Journey Map
-----
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
 ### Usability Review
-----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
