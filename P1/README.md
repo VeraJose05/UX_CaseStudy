@@ -59,10 +59,20 @@ Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
 
 ### Personas
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Hemos creado estos dos perfiles con características y estilos de vida distintos para abordar un espectro variado de usuarios y sus experiencias gastronómicas:
+
+Alfredo: un joven de 27 años, amante de los animales y la vida marina. Su pasión lo lleva a viajar a diferentes costas para bucear y observar especies en su hábitat natural. Además, es un entusiasta del balonmano, deporte que practica regularmente para mantenerse activo y despejar la mente. Javier es muy consciente de su alimentación y cuida su dieta para rendir mejor en sus entrenamientos y mantener un estilo de vida saludable. A pesar de su interés por la nutrición, no es un gran cocinero y suele buscar opciones gastronómicas equilibradas y accesibles cuando sale a comer, priorizando ingredientes frescos y naturales.
+
+Ángeles: una mujer de 45 años, madre de dos hijos y casada, que vive en Granada desde los 20 años. Su vida gira en torno a su familia y su verdulería, donde trabaja cada mañana hasta el mediodía. Aunque la falta de estudios le impidió profesionalizar su pasión por la gastronomía, ha convertido la cocina en su espacio de creatividad y aprendizaje. Siempre encuentra un momento para experimentar con nuevos ingredientes y técnicas, aprovechando los productos frescos que vende en su tienda. Su círculo social es reducido, limitado principalmente a sus clientes habituales y conocidos del barrio, pero disfruta compartiendo sus creaciones con su familia y escuchando historias de cocina de sus clientes.
+
+Ambos perfiles aportan perspectivas interesantes a este estudio sobre experiencias gastronómicas: mientras Alfredo representa a quienes buscan opciones saludables y prácticas sin ser expertos en cocina, Ángeles refleja el amor por la gastronomía desde una experiencia más cotidiana y familiar, demostrando cómo la comida puede convertirse en un puente entre la tradición, la creatividad y la comunidad.
 
 
 ### User Journey Map
+
+Para el estudio de una experiencia de nuestras personas ficticias, ambos perfiles destacan la importancia de una plataforma web accesible y fácil de usar para reservar talleres gastronómicos.
+
+* **Alfredo Martínez**: busca actividades de cocina en Granada y encuentra Granada Cooking, pero le cuesta filtrar por fechas y categorías de comida saludable y además no puede ver alérgenos
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
