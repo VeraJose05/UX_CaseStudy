@@ -79,7 +79,12 @@ Los puntos fuertes son la navegación, el uso de imagenes para hacer todo más f
 
 La puntuación general es de 75, indica que los usuarios pueden usar la mayoría de funcionalidades sin problema pero la experiencia aún se puede mejorar
 
+### BRIEFING
 
+
+Actualmente, un usuario promedio puede navegar por la página y completar las tareas principales, pero la experiencia sigue siendo deficiente en varios aspectos clave. Uno de los problemas más críticos es el funcionamiento del calendario a la hora de realizar reservas. Su diseño no es intuitivo, presenta fallos en la selección de fechas y, en ocasiones, no carga correctamente, lo que genera confusión y frustración en los usuarios. Además, la visibilidad de la fecha y la hora es insuficiente, lo que dificulta que los usuarios verifiquen y confirmen su selección con facilidad.
+
+Otro aspecto que requiere una mejora urgente es la funcionalidad de búsqueda. Actualmente, el sistema no permite realizar búsquedas con errores tipográficos o términos similares, lo que obliga al usuario a ingresar las palabras exactas para obtener resultados relevantes. Esto hace que la búsqueda sea poco útil y poco flexible, afectando negativamente la experiencia de navegación
 
 
 
