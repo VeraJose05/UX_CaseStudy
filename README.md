@@ -108,12 +108,11 @@ El porqué de la segunda experiencia viene de querer representar una persona con
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 75
+Como revisión de la usabilidad evaluamos diferentes funcionalidades de la web de Granda Cooking y analizamos cuáles son adecuadas y cuales podrían mejorarse.
 
->>> - Comentario sobre la revisión: Los puntos fuertes son la navegación, el uso de imagenes para hacer todo más facil de reconocer y la funcionalidad general de la página, pero sufre mucho en el apartado de la búsqueda de
->>> - elementos, donde todo depende de un único motor de búsqueda sin filtros, y de la falta de texto adicional o ayuda para comprender que es posible hacer en cada parte de la página.
+Los puntos fuertes son la navegación, el uso de imagenes para hacer todo más facil de reconocer y la funcionalidad general de la página, pero sufre mucho en el apartado de la búsqueda de elementos, donde todo depende de un único motor de búsqueda sin filtros, y de la falta de texto adicional o ayuda para comprender que es posible hacer en cada parte de la página.
+
+La puntuación general es de 75, indica que los usuarios pueden usar la mayoría de funcionalidades sin problema pero la experiencia aún se puede mejorar
 
 <br>
 
