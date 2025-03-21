@@ -114,6 +114,8 @@ Los puntos fuertes son la navegación, el uso de imagenes para hacer todo más f
 
 La puntuación general es de 75, indica que los usuarios pueden usar la mayoría de funcionalidades sin problema pero la experiencia aún se puede mejorar
 
+[Usability Review PDF](P1/Usability-review.pdf)
+
 <br>
 
 ## Paso 2. UX Design  
