@@ -78,10 +78,14 @@ Para el estudio de una experiencia de nuestras personas ficticias, ambos perfile
 
 
 ### Usability Review
+Como revisión de la usabilidad evaluamos diferentes funcionalidades de la web de Granda Cooking y analizamos cuáles son adecuadas y cuales podrían mejorarse.
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Los puntos fuertes son la navegación, el uso de imagenes para hacer todo más facil de reconocer y la funcionalidad general de la página, pero sufre mucho en el apartado de la búsqueda de elementos, donde todo depende de un único motor de búsqueda sin filtros, y de la falta de texto adicional o ayuda para comprender que es posible hacer en cada parte de la página.
+
+La puntuación general es de 75, indica que los usuarios pueden usar la mayoría de funcionalidades sin problema pero la experiencia aún se puede mejorar
+
+
+
+
 
 <br>
