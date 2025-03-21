@@ -95,9 +95,9 @@ Por otro tenemos a Ángeles Chavez, una ama de casa y dependienta de una verdule
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-
-Alfredo tiene que ir a granada para un partido de balonmano y quiere descubrir nuevas recetas saludables del sur pero le cuesta filtrar por fechas y categorías de comida saludable y además no puede ver alérgenos\
-La segunda experiencia, de Ángeles Chavez viene de querer representar una persona con conocimientos medios en el campo pero que nunca ha realizado ningún taller de gastronomía, pero tiene interés en ello. Estas experiencias suelen ser habituales ya que uno de los grupos principales de dichos talleres suelen ser personas con nivel medio cuya experiencia es la primera y suelen tener muchisimas dudas, miedos, nervios, ansiedad, etc...
+La primera experiencia, de Alfredo, busca representar una persona sin conocimientos en el campo, que solo busca probar por primera vez lo que son los talleres y catas gastronómicas. Estas experiencias suele ser vital representarlas ya que\
+es importante saber tratar con aquellos clientes que nunca han tenido contacto con el tema a tratar, en este caso el ocio de degustación.
+La segunda experiencia, de Ángeles Chavez viene de querer representar una persona con conocimientos medios en el campo pero que nunca ha realizado ningún taller de gastronomía, pero tiene interés en ello. Estas experiencias tambien suelen ser habituales ya que uno de los grupos principales de dichos talleres suelen ser personas con nivel medio cuya experiencia es la primera y suelen tener muchisimas dudas, miedos, nervios, ansiedad, etc...
 
 ![](P1/capturas-personas//Journey%20map%201.png)
 ![](P1/capturas-personas//Journey%202.png)
