@@ -87,7 +87,7 @@ Hemos seleccionado tres aplicaciones para realizar el Competitie Analysis:
 -----
 
 Por un lado tenemos a Alfredo Martínez es un joven relacionado con la tecnología que quiere descubrir nuevas recetas sanas\
-Por otro tenemos a Ángeles Chavez, una ama de casa y dependienta de una verdulería que quiere indagar mucho más en el mundo gastronómico
+Por otro tenemos a Ángeles Chavez, una ama de casa y dependienta de una verdulería que quiere indagar mucho más en el mundo gastronómico\
 ![](P1/capturas-personas//Persona%201.png)
 ![](P1/capturas-personas//Persona%202.png)
 
