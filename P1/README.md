@@ -75,8 +75,6 @@ Para el estudio de una experiencia de nuestras personas ficticias, ambos perfile
 * **Alfredo Martínez**: busca actividades de cocina en Granada y encuentra Granada Cooking, pero le cuesta filtrar por fechas y categorías de comida saludable y además no puede ver alérgenos
 * **Ángeles Chávez**: busca talleres de cocina para mejorar sus cualidades culinarias y poder sacar provecho de ello algún día. No es la primera vez que realiza actividades relacionadas con la cocina.
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
 
 ### Usability Review
 Como revisión de la usabilidad evaluamos diferentes funcionalidades de la web de Granda Cooking y analizamos cuáles son adecuadas y cuales podrían mejorarse.
