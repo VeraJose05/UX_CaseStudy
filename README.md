@@ -97,7 +97,7 @@ Por otro tenemos a Ángeles Chavez, una ama de casa y dependienta de una verdule
 ----
 
 Alfredo tiene que ir a granada para un partido de balonmano y quiere descubrir nuevas recetas saludables del sur pero le cuesta filtrar por fechas y categorías de comida saludable y además no puede ver alérgenos\
-El porqué de la segunda experiencia viene de querer representar una persona con conocimientos medios en el campo pero que nunca ha realizado ningún taller de gastronomía, pero tiene interés en ello. Estas experiencias suelen ser habituales ya que uno de los grupos principales de dichos talleres suelen ser personas con nivel medio cuya experiencia es la primera y suelen tener muchisimas dudas, miedos, nervios, ansiedad, etc...
+La segunda experiencia, de Ángeles Chavez viene de querer representar una persona con conocimientos medios en el campo pero que nunca ha realizado ningún taller de gastronomía, pero tiene interés en ello. Estas experiencias suelen ser habituales ya que uno de los grupos principales de dichos talleres suelen ser personas con nivel medio cuya experiencia es la primera y suelen tener muchisimas dudas, miedos, nervios, ansiedad, etc...
 
 ![](P1/capturas-personas//Journey%20map%201.png)
 ![](P1/capturas-personas//Journey%202.png)
