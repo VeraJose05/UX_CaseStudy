@@ -5,7 +5,7 @@
 * Mapa de empatía
 ![](mapa_empatia.png)
 
-[PDF para poder verlo mejor](Mapa%20de%20Emptía.pdf)
+[PDF para poder verlo mejor](Mapa%20de%20Empatía.pdf)
 
 
 ### PROPUESTA DE VALOR
