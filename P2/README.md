@@ -27,7 +27,11 @@
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* Sitemap
+![](SiteMap.png)
+
+[PDF para poder verlo mejor](SiteMap.pdf)
+
 * Labelling 
 
 
