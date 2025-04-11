@@ -10,6 +10,9 @@
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
+![](scope_canvas.png)
+
+[PDF para poder verlo mejor](Scope%20de%Canvas.pdf)
 
 
 ### TASK ANALYSIS
