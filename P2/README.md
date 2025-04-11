@@ -32,7 +32,7 @@
 
 [PDF para poder verlo mejor](SiteMap.pdf)
 
-* Labelling 
+* [Labelling](Labelling.pdf)
 
 
 ### Prototipo Lo-FI Wireframe 
