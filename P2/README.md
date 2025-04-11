@@ -20,6 +20,10 @@
 * User Task Matrix 
 * User/Task flow
 
+![](user_flow_map.png)
+
+[PDF para poder verlo mejor](User%20Flow%20Map.pdf)
+
 
 ### ARQUITECTURA DE INFORMACIÓN
 
