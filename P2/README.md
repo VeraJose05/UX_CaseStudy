@@ -41,16 +41,16 @@ Bocetos:
 
 
 
-Prototipos:
-![](/wireframe/frame1.png)
+* Wireframes
+![](wireframe/frame1.png)
 
-![](/wireframe/frame2.png)
+![](wireframe/frame2.png)
 
-![](/wireframe/frame3.png)
+![](wireframe/frame3.png)
 
-![](/wireframe/frame4.png)
+![](wireframe/frame4.png)
 
-![](/wireframe/frame5.png)
+![](wireframe/frame5.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
