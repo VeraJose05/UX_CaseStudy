@@ -37,7 +37,20 @@
 
 ### Prototipo Lo-FI Wireframe 
 
-Bocetos:
+* Bocetos
+![](/Bocetos/Boceto1.jpeg)
+
+![](/Bocetos/Boceto2.jpeg)
+
+![](/Bocetos/Boceto3.jpeg)
+
+![](/Bocetos/Boceto4.jpeg)
+
+![](/Bocetos/Boceto5.jpeg)
+
+
+
+
 
 
 
