@@ -37,6 +37,12 @@
 
 ### Prototipo Lo-FI Wireframe 
 
+Bocetos:
+
+
+
+Prototipos:
+(wireframe/Frame 1.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
