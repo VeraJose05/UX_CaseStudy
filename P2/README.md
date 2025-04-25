@@ -55,6 +55,8 @@
 
 
 * Wireframes
+En el menú principal se debería mostrar algún curso destacado del mes, con la opción directa de poder reservarlo.
+Añadir además una desccripción sobre qué son las comunidades y qué ventajas aportan al usuario.
 ![](wireframe/frame1.png)
 
 ![](wireframe/frame2.png)
@@ -66,8 +68,8 @@
 ![](wireframe/frame5.png)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Durante esta práctica hemos podido profundizar en el enfoque del Diseño Centrado en el Usuario, aplicando herramientas que nos han ayudado a entender mejor las necesidades reales de las personas frente a un producto digital. A partir de los aprendizajes de la práctica anterior, hemos replanteado nuestra propuesta de valor con una nueva visión orientada al comercio y la sostenibilidad, un enfoque que nos ha parecido especialmente interesante por su relevancia actual.
 
+Utilizando herramientas como el Empathy Map, el Feedback Capture Grid y el Scope Canvas, hemos podido estructurar mejor tanto las ideas como la organización del contenido, priorizando las tareas del usuario y visualizando el flujo de navegación de forma más clara. La elaboración del prototipo en papel y posteriormente en Figma (con diseño responsive) nos ha permitido trabajar de forma progresiva y comprobar cómo se podría ver y comportar el producto final en distintos dispositivos.
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Consideramos que esta práctica ha sido muy útil para entender cómo se puede pasar de una necesidad detectada a una solución concreta y funcional, teniendo siempre presente al usuario final en cada paso. También valoramos positivamente el uso de herramientas colaborativas y visuales como FIGMA, que facilitan mucho el trabajo de diseño, sobre todo en fases iniciales.
