@@ -127,30 +127,20 @@ Otro aspecto que requiere una mejora urgente es la funcionalidad de búsqueda. A
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
+A continuación, se presenta el mapa de empatía elaborado a partir de las experiencias y necesidades identificadas en la práctica anterior, con el objetivo de comprender mejor al usuario y guiar el diseño centrado en sus emociones, pensamientos y comportamientos.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+![](P2/mapa_empatia.png)
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+Este Scope Canvas recoge nuestra propuesta de valor, definiendo claramente el problema que queremos resolver, los objetivos del proyecto, las necesidades del usuario y las soluciones planteadas. Con ello, buscamos alinear el diseño y desarrollo del servicio con una visión estratégica centrada en ofrecer una experiencia útil, sostenible y diferenciadora
+
+![](P2/scope_canvas.png)
 
 
 
@@ -158,26 +148,38 @@ Otro aspecto que requiere una mejora urgente es la funcionalidad de búsqueda. A
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+Este diagrama muestra el recorrido que realiza el usuario dentro de nuestra propuesta digital, desde el acceso inicial hasta la consecución de sus objetivos principales. Nos permite identificar los pasos clave, optimizar la experiencia de navegación y garantizar que cada interacción esté alineada con las necesidades y expectativas del usuario.
 
+![](P2/user_flow_map.png)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+Este sitemap representa la arquitectura de información propuesta para nuestro proyecto. Su objetivo es organizar de forma lógica y jerárquica los contenidos y secciones de la interfaz, facilitando la navegación del usuario y asegurando una experiencia clara, intuitiva y coherente desde el inicio.
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+![](P2/SiteMap.png)
+
+
+* [Labelling](P2/Labelling.pdf)
+
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+En el menú principal se debería mostrar algún curso destacado del mes, con la opción directa de poder reservarlo.
+Añadir además una desccripción sobre qué son las comunidades y qué ventajas aportan al usuario.
+![](P2/wireframe/frame1.png)
 
+![](P2/wireframe/frame2.png)
+
+![](P2/wireframe/frame3.png)
+
+![](P2/wireframe/frame4.png)
+
+![](P2/wireframe/frame5.png)
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
