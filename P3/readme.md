@@ -31,9 +31,8 @@
 
 - **Comunidades de Usuarios** Secciones dedicadas a distintas temáticas (por ejemplo, repostería, cocina vegana, principiantes). Los usuarios pueden unirse a comunidades para recibir sugerencias personalizadas o participar en eventos temáticos.
 
----
+### 3. Comunicación y Retroalimentación
 
-### 2. Comunicación y Retroalimentación
 - **Form Input (Formulario de Contacto o Registro)**  Formularios intuitivos para facilitar el registro e inscripción a talleres/comunidades. Se evitan formularios extensos y se prioriza la experiencia de usuario.
 
 - **About (Acerca de Nosotros)**  Página informativa sobre el equipo, misión y visión de la plataforma. Refuerza la **confianza y transparencia**, mostrando el valor humano detrás de los talleres ofrecidos.
