@@ -9,3 +9,35 @@
 
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+
+## Moodboard (diseño visual + logotipo)   
+## Landing Page
+## Guidelines
+
+### 1. Navegación & Estructura
+- **Navbar** Permite una navegación clara y accesible
+- **Hero Image + Carrusel**  Imagen destacada de un taller + carrusel con talleres recomendados, categorías o chefs.
+- **Search (Búsqueda)**  Barra de búsqueda fija para filtrar talleres por nombre, tipo, ingredientes, etc.
+- **Article List 5-7 Cards Items** -> COMPLETAR
+
+### 2. Flujo de Usuario
+
+- **Wizards (Flujo de Registro)**  Durante el proceso de registro, los usuarios son guiados.
+- **Item Details + Actions (Detalles de Receta o Taller)**  En la vista de detalle, los usuarios pueden consultar información específica sobre un taller o comunidad y realizar acciones como **unirse**, **descargar PDF** o **reservar**.
+
+- **Reserva de Talleres**   Proceso simplificado para seleccionar un taller y confirmar asistencia. Permite realizar reservas en pocos pasos.
+
+- **Calendario de Eventos** Herramienta visual para explorar la disponibilidad de los talleres. Los usuarios pueden elegir una franja de tiempo y ver qué talleres hay disponibles.
+
+- **Comunidades de Usuarios** Secciones dedicadas a distintas temáticas (por ejemplo, repostería, cocina vegana, principiantes). Los usuarios pueden unirse a comunidades para recibir sugerencias personalizadas o participar en eventos temáticos.
+
+---
+
+### 2. Comunicación y Retroalimentación
+- **Form Input (Formulario de Contacto o Registro)**  Formularios intuitivos para facilitar el registro e inscripción a talleres/comunidades. Se evitan formularios extensos y se prioriza la experiencia de usuario.
+
+- **About (Acerca de Nosotros)**  Página informativa sobre el equipo, misión y visión de la plataforma. Refuerza la **confianza y transparencia**, mostrando el valor humano detrás de los talleres ofrecidos.
+
+
+## Mockup: LAYOUT HI-FI 
+## Publicación del Case Study 
