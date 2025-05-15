@@ -1,15 +1,5 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
-- Landing Page
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
-
-## Conclusiones
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
-
 ## Moodboard (diseño visual + logotipo)   
 ![Moodboard](Moodboard.jpg)
 
@@ -56,4 +46,8 @@ En este [link](https://www.figma.com/design/4K1tR8tdYivjwLtCuL0Ex5/Layout-HI-FI?
 En el Case Study se presenta una visión detallada del desarrollo y diseño de nuestra aplicación, explicada de forma accesible para que cualquier persona, incluso sin conocimientos técnicos, pueda comprender el proceso y los objetivos del proyecto.
 
 A continuación, puede visualizar el [Case Study](../README.md) que hemos llevado a cabo.
+
+## Conclusiones
+
+>>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
 
