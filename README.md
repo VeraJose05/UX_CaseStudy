@@ -9,7 +9,7 @@ Actualizado: xx/xx/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Granada Cooking
 
 Descripción: 
 
@@ -17,7 +17,7 @@ Descripción:
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<img src="./P3/logo.png" alt="Logo" width="200"/>
 
 Miembros:
  * :bust_in_silhouette: [ Jose Vera Castillo ](https://github.com/VeraJose05)    :octocat:     
@@ -29,9 +29,6 @@ Miembros:
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
@@ -184,46 +181,62 @@ Añadir además una desccripción sobre qué son las comunidades y qué ventajas
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Se ha realizado un Moodboard para establecer los estilos de nuesta aplicación. La paleta busca reflejar un ambiente amigable, para todo el público usando colores no tan saturados, y más pastel. Como tipografías hemos elegido Calc Sans como principal y Quicksand como secundaria buscando un estilo que sea agradable y destacable al mismo tiempo para la principal y simple para la secundaria. El eslogan destaca que no solo ofrecemos una experiencia culinaria en Granada si no que proviene de todas las partes del mundo.
 
+El logo se ha desarrollado con la herramienta Looka
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+El landing page representa el primer punto de contacto entre el usuario y nuestra aplicación, por lo que su diseño juega un papel fundamental en la captación de usuarios. Su objetivo principal es presentar de forma clara, atractiva y convincente el valor que ofrece la plataforma.
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+### 1. Navegación & Estructura
+- **Navbar** Permite una navegación clara y accesible
+- **Hero Image + Carrusel**  Imagen destacada de un taller + carrusel con talleres recomendados, categorías o chefs.
+- **Search (Búsqueda)**  Barra de búsqueda fija para filtrar talleres por nombre, tipo, ingredientes, etc.
+- **Article List 5-7 Cards Items** -> COMPLETAR
+
+### 2. Flujo de Usuario
+
+- **Wizards (Flujo de Registro)**  Durante el proceso de registro, los usuarios son guiados.
+- **Item Details + Actions (Detalles de Receta o Taller)**  En la vista de detalle, los usuarios pueden consultar información específica sobre un taller o comunidad y realizar acciones como **unirse**, **descargar PDF** o **reservar**.
+
+- **Reserva de Talleres**   Proceso simplificado para seleccionar un taller y confirmar asistencia. Permite realizar reservas en pocos pasos.
+
+- **Calendario de Eventos** Herramienta visual para explorar la disponibilidad de los talleres. Los usuarios pueden elegir una franja de tiempo y ver qué talleres hay disponibles.
+
+- **Comunidades de Usuarios** Secciones dedicadas a distintas temáticas (por ejemplo, repostería, cocina vegana, principiantes). Los usuarios pueden unirse a comunidades para recibir sugerencias personalizadas o participar en eventos temáticos.
+
+### 3. Comunicación y Retroalimentación
+
+- **Form Input (Formulario de Contacto o Registro)**  Formularios intuitivos para facilitar el registro e inscripción a talleres/comunidades. Se evitan formularios extensos y se prioriza la experiencia de usuario.
+
+- **About (Acerca de Nosotros)**  Página informativa sobre el equipo, misión y visión de la plataforma. Refuerza la **confianza y transparencia**, mostrando el valor humano detrás de los talleres ofrecidos.
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
+En este [link](https://www.figma.com/design/4K1tR8tdYivjwLtCuL0Ex5/Layout-HI-FI?node-id=0-1&p=f&t=1mXaAcP23nyf6x6Z-0) se puede ver el Prototype en acción.
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+En el Case Study se presenta una visión detallada del desarrollo y diseño de nuestra aplicación, explicada de forma accesible para que cualquier persona, incluso sin conocimientos técnicos, pueda comprender el proceso y los objetivos del proyecto.
+
+A continuación, puede visualizar el [Case Study](../README.md) que hemos llevado a cabo.
 
 <br>
 
