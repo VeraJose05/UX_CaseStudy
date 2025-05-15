@@ -48,4 +48,12 @@ La landing page representa el primer punto de contacto entre el usuario y nuestr
 
 
 ## Mockup: LAYOUT HI-FI 
+![Layouts Completos](Layout_HI_FI.jpg)
+
+En este [link](https://www.figma.com/design/4K1tR8tdYivjwLtCuL0Ex5/Layout-HI-FI?node-id=0-1&p=f&t=1mXaAcP23nyf6x6Z-0) se puede ver el Prototype en acción.
 ## Publicación del Case Study 
+
+En el Case Study se presenta una visión detallada del desarrollo y diseño de nuestra aplicación, explicada de forma accesible para que cualquier persona, incluso sin conocimientos técnicos, pueda comprender el proceso y los objetivos del proyecto.
+
+A continuación, puede visualizar el [Case Study](../README.md) que hemos llevado a cabo.
+
