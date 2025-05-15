@@ -11,6 +11,12 @@
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
 
 ## Moodboard (diseño visual + logotipo)   
+![Moodboard](Moodboard.jpg)
+
+Se ha realizado un Moodboard para establecer los estilos de nuesta aplicación. La paleta busca reflejar un ambiente amigable, para todo el público usando colores no tan saturados, y más pastel.
+
+Como tipografías hemos elegido Calc Sans como principal y Quicksand como secundaria buscando un estilo que sea agradable y destacable al mismo tiempo para la principal y simple para la secundaria. El eslogan destaca que no solo ofrecemos una experiencia culinaria en Granada si no que proviene de todas las partes del mundo.
+
 ## Landing Page
 ## Guidelines
 
