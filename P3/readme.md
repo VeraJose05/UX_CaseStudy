@@ -8,7 +8,7 @@ Se ha realizado un Moodboard para establecer los estilos de nuesta aplicación. 
 Como tipografías hemos elegido Calc Sans como principal y Quicksand como secundaria buscando un estilo que sea agradable y destacable al mismo tiempo para la principal y simple para la secundaria. El eslogan destaca que no solo ofrecemos una experiencia culinaria en Granada si no que proviene de todas las partes del mundo.
 
 ## Landing Page
-![Landing page](Landing_page.jpg)
+![Landing page](Landing_page.png)
 La landing page representa el primer punto de contacto entre el usuario y nuestra aplicación, por lo que su diseño juega un papel fundamental en la captación de usuarios. Su objetivo principal es presentar de forma clara, atractiva y convincente el valor que ofrece la plataforma.
 
 ## Guidelines
