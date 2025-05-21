@@ -17,8 +17,7 @@ La landing page representa el primer punto de contacto entre el usuario y nuestr
 - **Navbar** Permite una navegación clara y accesible
 - **Hero Image + Carrusel**  Imagen destacada de un taller + carrusel con talleres recomendados, categorías o chefs.
 - **Search (Búsqueda)**  Barra de búsqueda fija para filtrar talleres por nombre, tipo, ingredientes, etc.
-- **Article List 5-7 Cards Items** -> COMPLETAR
-
+- **Article List 5-7 Cards Items** Muestra las recetas más recientes y relevantes en un formato visual de tarjetas para facilitar su exploración.
 ### 2. Flujo de Usuario
 
 - **Wizards (Flujo de Registro)**  Durante el proceso de registro, los usuarios son guiados.
