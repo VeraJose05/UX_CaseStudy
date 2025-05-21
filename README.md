@@ -13,7 +13,7 @@ Granada Cooking
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Esta plataforma está orientada a personas interesadas en perfeccionar sus habilidades culinarias mediante formación en línea. A través de una amplia oferta de cursos, permite acceder a contenido exclusivo y a recetas guiadas por chefs profesionales de diferentes regiones de España,
 
 Logotipo: 
 
