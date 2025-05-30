@@ -84,7 +84,8 @@ A continuación tenemos una tabla con los datos de las personas que han particip
 
 - Eye Tracking para B
 (las imagenes del eyetracking están subidas, del Caso 2 el chaval llevaba gafas y no se pudo hacer por fallos en la calibración)
-
+(conforme se hagan mas eyetrackings, se iran actualizando esas mismas imagenes, asi que no merece la pena ponerlas ya, es solo por si quieres ir sacando info de ellas)
+(supongo que sabes que es un heatmap y lo que se muestra en ese mapa)
 
 
 - Usability Report del Caso B, con toda la información recabada del caso B
