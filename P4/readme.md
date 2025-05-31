@@ -63,12 +63,13 @@ El test sus nos permitirá medir la usabilidad de ambas plataformas. El test SUS
 
 
 (aqui pondré un excel con todos los resultados una vez tenga los 5)
-https://app.maze.co/projects/391313720/mazes/391324800/results?tab=results&blockId=4fc6ad33-c7e4-4e0d-9c5e-3dad0d738ecb
-por si se pueden mirar los resultados sin iniciar cuenta.
 
-Las medias por ahora son:
-A: Test de la persona 1 -> 92/100
-B: Test de la persona 1 -> 21/100
+Los resultados por ahora son:
+A: Test de la persona 1 -> 92/100 (Chavala de clase)
+B: Test de la persona 1 -> 21/100 (Chaval de clase)
+B: Test de la persona 2 -> 79/100 (Hugo)
+A: Test de la persona 2 -> 98/100 (Natalia)
+
 
 
 - Tabla A/B Testing con resultados para A y B
@@ -79,19 +80,27 @@ A continuación tenemos una tabla con los datos de las personas que han particip
 |#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
 |1|Mujer 21|Estudiante|[Intermedio]|Movil|[A]|
 |2|Hombre 25|Estudiante|[Intermedio]Windows|[B]|
+|3|Hombre 20|Estudiante|[Básico]|Movil|[B]|
+|4|Mujer 21|Estudiante|Avanzada|Linux|[A]|
 
 
 
 - Eye Tracking para B
-(las imagenes del eyetracking están subidas, del Caso 2 el chaval llevaba gafas y no se pudo hacer por fallos en la calibración)
-(conforme se hagan mas eyetrackings, se iran actualizando esas mismas imagenes, asi que no merece la pena ponerlas ya, es solo por si quieres ir sacando info de ellas)
-(supongo que sabes que es un heatmap y lo que se muestra en ese mapa)
+(las imagenes del eyetracking están subidas, del Caso 2 el chaval llevaba gafas y no se pudo hacer por fallos en la calibración, hay que hacer una como mínimo.)
+
+- Usability Report del Caso B, con toda la información recabada del caso B 
+
+El informe de usabilidad del Caso B, "Monedas-Re, prendas para todos" es en general positivo, aunque con algunos puntos negativos a destacar que se han ido revelando a lo largo del A/B Testing.
+  
+Un total de 3 personas han realizado el test en relación al Caso B, y aunque la media haya sido buena, se ha notado durante la realización de las distintas actividades que la interfaz de la aplicación puede no ser muy intuitiva y llevar a bucles entre menús buscando una opción concreta.
+
+Por nombrar algunos ejemplos, ha sido bastante común el ignorar por completo el boton de "Tu moda-re" de la página inicial, por no entender que es el botón principal que hay que pulsar para poder registrarse y empezar a navegar (a parte de la alternativa de darle a nuestro perfil). Una posible solución a este problema podría ser cambiar el texto por "Inicia sesión" de ser obligatorio hacerlo antes de navegar. En el caso contrario, sería interesante adaptar el prototipo para permitir navegar sin registrarse.
+
+Otro problema que ha sido recurrente es el del menú desplegable de "tu moda-re". Al ser el unico menú desplegable y estár colocado al final a la izquierda, al intentar hacer click en el resto de la navegación, los usuarios a veces se saltaban el botón y no intentaban ver si había algo, incluso aun teniendo un color distinto. Quizás una posible solución podría ser colocar la opción la primera de la navegación, o destacarla aparte.
+
+Mas allá de estos problemas, el resto de la navegación fué bastante clara y sencilla para todos los usuarios, teniendo prácticamente 0 problemas a la hora de navegar una vez superada la barrera inicial.
 
 
-- Usability Report del Caso B, con toda la información recabada del caso B
-
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 - Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+
