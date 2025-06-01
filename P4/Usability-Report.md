@@ -53,17 +53,13 @@ Para llevar a cabo estas pruebas, se seleccionó a un grupo de personas de nuest
 
 A continuación tenemos una tabla con los datos de las personas que han participado en el A/B Testing.
        
-|   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|
-|#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|
-|1|Mujer 21|Estudiante|[Intermedio]|Movil|[A]
-|2|Hombre 25|Estudiante|[Intermedio]|Windows|[B]
-|3|Hombre 20|Estudiante|[Básico]|Movil|[B]
-|4|Mujer 21|Estudiante|Avanzada|Linux|[A]
-|5|Mujer 45|Limpiadora|Básica|Linux|[B]
-
-
-
+| #id. usuario | Sexo/edad | Ocupación | Experiencia internet | Plataforma | Perfil cubierto |
+|--------------|------------|-----------|------------------------|-------------|------------------|
+| 1            | Mujer 21   | Estudiante| Intermedio            | Móvil       | A                |
+| 2            | Hombre 25  | Estudiante| Intermedio            | Windows     | B                |
+| 3            | Hombre 20  | Estudiante| Básico                | Móvil       | B                |
+| 4            | Mujer 21   | Estudiante| Avanzada              | Linux       | A                |
+| 5            | Mujer 45   | Limpiadora| Básica                | Linux       | B                |
 
 
 
@@ -76,6 +72,8 @@ Este estudio de eye tracking se realizó con el objetivo de analizar el comporta
 
 El estudio se realiza sobre la siguiente acción:
 - Añadir una prenda de ropa al carrito y completar el proceso de compra.
+
+
 ![](eyetracking/b1.png)
 ![](eyetracking/b2.png)
 
