@@ -16,7 +16,7 @@ A continuación tenemos una tabla con los datos de las personas que han particip
        
 |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
-|#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
+|#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|
 |1|Mujer 21|Estudiante|[Intermedio]|Movil|[A]|
 |2|Hombre 25|Estudiante|[Intermedio]|Windows|[B]|
 |3|Hombre 20|Estudiante|[Básico]|Movil|[B]|
