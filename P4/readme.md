@@ -12,8 +12,7 @@ Se nos ha asignado el grupo **DIU3.McQueen&Sally**. Link del GitHub: https://git
 
 
 ## 3. Reclutamiento de participantes estudio 
-- Tabla A/B Testing con resultados para A y B
-A continuación tenemos una tabla con los datos de las personas que han participado en ell A/B Testing.
+A continuación tenemos una tabla con los datos de las personas que han participado en el A/B Testing.
        
 |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
@@ -23,10 +22,25 @@ A continuación tenemos una tabla con los datos de las personas que han particip
 |3|Hombre 20|Estudiante|[Básico]|Movil|[B]|
 |4|Mujer 21|Estudiante|Avanzada|Linux|[A]|
 
-## 4. Diseñar pruebas
-### 4.1. [Método: A/B testing]
-### 4.2. [Método: Eye tracking]
-### 4.3. [Método SUS QUESTIONNAIRE]
+## 4. Pruebas diseñadas
+### 4.1. Eye tracking
+Este estudio de eye tracking se realizó con el objetivo de analizar el comportamiento visual de los usuarios mientras completan dos tareas diferentes en dos casos distintos.
+
+## Tareas evaluadas
+
+### Caso 1
+- Reservar un taller.
+- Publicar un post en una comunidad (o, alternativamente, comentar en uno ya existente).
+
+### Caso 2
+- Añadir una prenda de ropa al carrito y completar el proceso de compra.
+- Vender una prenda de ropa. *(Esta tarea está pendiente de revisión para confirmar su ejecución).*
+
+Las pruebas se realizaron utilizando la herramienta **Gaze Recorder**
+
+### 4.2. Cuestionario SUS (System Usability Scale Test)
 
 ## 5. Usability report
+
+## 6. Conclusiones
 
