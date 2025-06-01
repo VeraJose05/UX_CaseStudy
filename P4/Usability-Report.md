@@ -12,7 +12,7 @@
 
 [Enlace a GITHUB del proyecto](https://github.com/McQueen-Sally/UX_CaseStudy)
 
-[](logo-casoB.png)
+![Logo caso B](logo-casoB.png)
 
 
 
