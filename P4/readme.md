@@ -16,8 +16,8 @@ Para llevar a cabo el A/B Testing, hemos seleccionado a un pequeño grupo de tes
 
 A continuación tenemos una tabla con los datos de las personas que han participado en el A/B Testing.
        
-|   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
 |#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|
 |1|Mujer 21|Estudiante|[Intermedio]|Movil|[A]|
 |2|Hombre 25|Estudiante|[Intermedio]|Windows|[B]|
