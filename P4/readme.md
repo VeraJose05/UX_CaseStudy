@@ -89,14 +89,14 @@ El test sus nos permitirá medir la usabilidad de ambas plataformas. El test SUS
 
 A continuación, se presentan las puntuaciones obtenidas:
 
-
+![](tabla_sus.png)
 
 
 #### Conclusiones
 ## 5. Usability report
 El informe de usabilidad del Caso B, "Monedas-Re, prendas para todos" es en general positivo, aunque con algunos puntos negativos a destacar que se han ido revelando a lo largo del A/B Testing. Se ha notado durante la realización de las distintas actividades que la interfaz de la aplicación puede no ser muy intuitiva y llevar a bucles entre menús.
 
-Los resultados del test de usabilidad realizados por un total de 3 personas, muestran que es bastante común el ignorar por completo el boton de "Tu moda-re" de la página inicial, por no entender que es el botón principal que hay que pulsar para poder registrarse y empezar a navegar.
+Los resultados del test de usabilidad realizados por un total de 3 personas, muestran entre otros problemas que es bastante común el ignorar por completo el boton de "Tu moda-re" de la página inicial, por no entender que es el botón principal que hay que pulsar para poder registrarse y empezar a navegar.
 
 El Usability Report para el Caso B completo se eneuntra en el archivo [Usability-Report.md](Usability-Report.md).
 ## 6. Conclusiones
