@@ -14,45 +14,6 @@ Se nos ha asignado el grupo **DIU3.McQueen&Sally**. Link del GitHub: https://git
 ## 3. Reclutamiento de participantes estudio
 Para llevar a cabo el A/B Testing, hemos seleccionado a un pequeño grupo de testers que realizarán una serie de pruebas: un formulario con preguntas de interés general sobre su comportamiento en ámbitos que tienen relación con ambos casos, una serie de actividades precedidas de un proceso de eyetracking, y un cuestionario SUS para evaluar la usabilidad del caso que han probado.
 
-El primer formulario contiene las siguientes preguntas:
-
-En cuales de estas actividades pasas más tiempo a lo largo de la semana?
-- Leer libros o ver series
-- Hacer deporte
-- Ir de compras
-- Other
-- Salir a comer por ahí
-- Usar las redes sociales
-
-Te gustan más las actividades en grupo o en solitario?
-- En Grupo
-- En solitario
-
-¿En qué tipo de experiencias o productos prefieres gastar tu dinero?
-- Comida
-- Tecnología
-- Ropa
-- Talleres o eventos en grupo
-- Viajes
-
-¿Qué valoras más en una experiencia o compra?
-- Calidad
-- Conveniencia
-- Exclusividad
-- Precio
-- Sostenibilidad
-
-
-¿Qué te motiva más a probar una nueva actividad?
-- Curiosidad Personal
-- Recomendaciones de amigos
-- Influencers / Personas Famosas
-- Promociones / Descuentos
-- Redes sociales
-
-
-
-
 A continuación tenemos una tabla con los datos de las personas que han participado en el A/B Testing.
        
 |   |   |   |   |   |   |   |   |
@@ -63,6 +24,52 @@ A continuación tenemos una tabla con los datos de las personas que han particip
 |3|Hombre 20|Estudiante|[Básico]|Movil|[B]|
 |4|Mujer 21|Estudiante|Avanzada|Linux|[A]|
 
+
+
+El primer formulario contiene las siguientes preguntas, e incluiremos tras cada una los resultados que hemos recibido tras realizar el test a los distintos usuarios:
+
+En cuales de estas actividades pasas más tiempo a lo largo de la semana?
+- Leer libros o ver series
+- Hacer deporte
+- Ir de compras
+- Otras
+- Salir a comer por ahí
+- Usar las redes sociales
+
+El 60% ha pasado mas tiempo leyendo libros o viendo series, el 20% de compras o usando redes sociales y el restante 20% en otras actividades 
+
+Te gustan más las actividades en grupo o en solitario?
+- En Grupo
+- En solitario
+
+El 60% prefiere actividades en grupo mientras el 40% en solitario
+
+¿En qué tipo de experiencias o productos prefieres gastar tu dinero?
+- Comida
+- Tecnología
+- Ropa
+- Talleres o eventos en grupo
+- Viajes
+
+Aqui todas las categorías tienen un mismo nivel de elección menos los talleres o eventos en grupo, que tienen un 0%.
+
+¿Qué valoras más en una experiencia o compra?
+- Calidad
+- Conveniencia
+- Exclusividad
+- Precio
+- Sostenibilidad
+
+El 80% valora más la calidad y el 20% la sostenibilidad
+
+¿Qué te motiva más a probar una nueva actividad?
+- Curiosidad Personal
+- Recomendaciones de amigos
+- Influencers / Personas Famosas
+- Promociones / Descuentos
+- Redes sociales
+
+Al 60% le motiva más las recomendaciones de amigos y al 40% su curiosidad personal
 
 
 ## 4. Pruebas diseñadas
