@@ -83,13 +83,16 @@ El estudio se realiza sobre la siguiente acción:
 
 Tras el análisis de los datos recogidos durante las sesiones de *eyetracking*, se obtienen las siguientes conclusiones:
 
-- *Botón "Tu Moda-Re"**  
+- **Botón "Tu Moda-Re"**  
   Este elemento logra captar la atención visual de los usuarios de forma constante, gracias a su diseño llamativo. No obstante, se ha observado que **no suele ser clicado**, lo que indica que su propósito no queda del todo claro o no se percibe como relevante dentro del flujo de navegación.
 
 - **Visualización del precio total en la cesta**  
   El **precio total de la compra apenas recibe atención**, ya que se encuentra en una posición inferior dentro de la interfaz y se muestra con un **tamaño de fuente reducido**, lo que compromete su visibilidad.
 
 #### Cuestionario SUS (System Usability Scale Test)
+El test sus nos permitirá medir la usabilidad de ambas plataformas. El test SUS se basa en unas 10 preguntas cortas sobre la experiencia del usuario en la página. Estas se pueden valorar desde 1 hasta 10, según el grado de conformidad o acuerdo con la pregunta. De ser negativa, se valorará como nota mas alta el número más bajo y viceversa.
+
+A continuación, se presentan las puntuaciones obtenidas:
 
 #### Conclusiones del cuestionario SUS
 
@@ -98,26 +101,30 @@ Tras el análisis de los datos recogidos durante las sesiones de *eyetracking*, 
 ## 4 CONCLUSIONES 
 
 
+Tras las pruebas de usabilidad realizadas —incluyendo sesiones de test con usuarios, análisis de interacción y estudios de eye tracking— podemos extraer las siguientes conclusiones generales:
 
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
-
-#### Incidencias
-
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
-
+- La interfaz ha sido valorada positivamente por su diseño limpio, su contraste adecuado y la claridad de los iconos y tipografías.
+- No obstante, existen elementos clave cuya funcionalidad no se percibe con claridad por parte de los usuarios, especialmente el botón **"Tu Moda-Re"**, el cual, pese a captar la atención visual, **no invita a la interacción** debido a una falta de contexto o claridad en su propósito.
+- Asimismo, el **precio total de la cesta pasa desapercibido**, ya que está ubicado en la parte inferior de la pantalla y representado con un tamaño de fuente pequeño, lo que compromete su visibilidad e importancia.
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+Las técnicas empleadas en este estudio han resultado **altamente útiles para detectar fallos de usabilidad** que podrían haber pasado desapercibidos durante la fase de diseño.
+
+Gracias al **eye tracking** se han podido identificar puntos calientes de atención que no se traducían en acciones, lo cual permitió descubrir **problemas en la comprensión del flujo**. Además, el **feedback directo de los usuarios** reveló que algunas decisiones de interfaz, como la colocación o el texto de ciertos elementos clave, generaban confusión.
+
+En definitiva, la combinación de métodos cuantitativos y cualitativos ha proporcionado **una visión completa del comportamiento del usuario**, permitiendo proponer soluciones fundamentadas y realistas. Este proceso ha demostrado ser esencial para **mejorar la experiencia global y optimizar el diseño de cara a futuras versiones** del producto.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
+- ✅ Cambiar el texto del botón **"Tu Moda-Re"** por algo más claro como **"Inicia sesión"** si es obligatorio registrarse para comenzar a navegar.
+- ✅ Si el registro no es obligatorio, adaptar el flujo de navegación para **permitir explorar sin registrarse** y así no generar fricción innecesaria.
+- ✅ Reubicar el botón "Tu Moda-Re" como **primera opción en el menú de navegación** o destacarlo visualmente como una llamada a la acción principal.
+- ✅ Aumentar el tamaño y la jerarquía visual del **precio total en la cesta**, y **reposicionarlo** en un lugar más visible dentro del flujo de compra.
+
+Estas mejoras permitirían una experiencia más intuitiva, clara y alineada con las expectativas de los usuarios desde los primeros pasos dentro de la aplicación.
 
 
 
@@ -127,4 +134,3 @@ Tras el análisis de los datos recogidos durante las sesiones de *eyetracking*, 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
