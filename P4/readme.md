@@ -47,6 +47,8 @@ Esta herramienta nos permitirá evaluar la usabilidad de ambas plataformas. Para
 Se utilizará el cuestionario SUS (System Usability Scale), compuesto por 10 afirmaciones con respuestas en una escala de 5 niveles, que van desde "Totalmente en desacuerdo" hasta "Totalmente de acuerdo". Estas preguntas están pensadas para obtener una visión general sobre la facilidad de uso del sistema.
 
 A continuación, se presentan las puntuaciones obtenidas:
+
+#### Conclusiones
 ## 5. Usability report
 
 ## 6. Conclusiones
