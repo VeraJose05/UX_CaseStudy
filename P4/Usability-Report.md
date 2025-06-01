@@ -26,8 +26,6 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
-
 El objetivo es fomentar y hacer más accesible la donación y la adquisición de prendas de segunda mano, ofreciendo un espacio específico dentro de la página de moda-re destinado a la compra y venta de ropa usada. Este punto de intercambio permitirá a los usuarios contribuir a la economía circular, alargar la vida útil de las prendas y participar activamente en un modelo de consumo más sostenible y responsable con el medio ambiente.
 
 
