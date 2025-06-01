@@ -246,18 +246,17 @@ A continuación, puede visualizar el [Case Study](../README.md) que hemos llevad
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Se nos ha asignado el grupo **DIU3.McQueen&Sally**. Link del GitHub: https://github.com/McQueen-Sally/UX_CaseStudy
 
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
+A continuación tenemos una tabla con los datos de las personas que han participado en el A/B Testing.
+       
+| #id. usuario | Sexo/edad | Ocupación | Experiencia internet | Plataforma | Perfil cubierto |
+|--------------|------------|-----------|------------------------|-------------|------------------|
+| 1            | Mujer 21   | Estudiante| Intermedio            | Móvil       | A                |
+| 2            | Hombre 25  | Estudiante| Intermedio            | Windows     | B                |
+| 3            | Hombre 20  | Estudiante| Básico                | Móvil       | B                |
+| 4            | Mujer 21   | Estudiante| Avanzada              | Linux       | A                |
+| 5            | Mujer 45   | Limpiadora| Básica                | Linux       | B                |
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
@@ -271,10 +270,16 @@ A continuación, puede visualizar el [Case Study](../README.md) que hemos llevad
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+
+### 4.2. Cuestionario SUS (System Usability Scale Test)
+El test sus nos permitirá medir la usabilidad de ambas plataformas. El test SUS se basa en unas 10 preguntas cortas sobre la experiencia del usuario en la página. Estas se pueden valorar desde 1 hasta 10, según el grado de conformidad o acuerdo con la pregunta. De ser negativa, se valorará como nota mas alta el número más bajo y viceversa.
+
+A continuación, se presentan las puntuaciones obtenidas:
+
+![](tabla_sus.png)
+
+
+#### Conclusiones
 
 
 ### 4.d A/B Testing
@@ -287,7 +292,24 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Este estudio de eye tracking se realizó con el objetivo de analizar el comportamiento visual de los usuarios mientras completan dos tareas diferentes en dos casos distintos. En nuestro caso, se les muestra un par de imágenes relacionadas sobre la actividad que van a realizar para monitorizar los puntos en los que más se fijan, para después analizarlo
+
+## Tareas evaluadas
+
+### Caso 1
+- Reservar un taller.
+- Publicar un post en una comunidad (o, alternativamente, comentar en uno ya existente).
+![](eyetracking/a1.png)
+![](eyetracking/a2.png)
+
+
+### Caso 2
+- Añadir una prenda de ropa al carrito y completar el proceso de compra.
+- Vender una prenda de ropa.
+
+![](eyetracking/b1.png)
+![](eyetracking/b2.png)
+
 
 
 ![experimento](img/experimentoET.png)  
@@ -299,12 +321,11 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
+El informe de usabilidad del Caso B, "Monedas-Re, prendas para todos" es en general positivo, aunque con algunos puntos negativos a destacar que se han ido revelando a lo largo del A/B Testing. Se ha notado durante la realización de las distintas actividades que la interfaz de la aplicación puede no ser muy intuitiva y llevar a bucles entre menús.
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+Los resultados del test de usabilidad realizados por un total de 3 personas, muestran entre otros problemas que es bastante común el ignorar por completo el boton de "Tu moda-re" de la página inicial, por no entender que es el botón principal que hay que pulsar para poder registrarse y empezar a navegar.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
+El Usability Report para el Caso B completo se eneuntra en el archivo [Usability-Report.md](Usability-Report.md).
 
 
 <br>
