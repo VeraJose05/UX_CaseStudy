@@ -68,6 +68,8 @@ A continuación tenemos una tabla con los datos de las personas que han particip
 |2|Hombre 25|Estudiante|[Intermedio]|Windows|[B]
 |3|Hombre 20|Estudiante|[Básico]|Movil|[B]
 |4|Mujer 21|Estudiante|Avanzada|Linux|[A]
+54|Mujer 45|Limpiadora|Básica|Linux|[B]
+
 
 
 
