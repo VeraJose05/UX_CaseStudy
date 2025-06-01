@@ -6,12 +6,11 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### (Monedas-Re )
 
-### (Fecha)
+### (01/06/2025)
 
-
-
+[Enlace a GITHUB del proyecto](https://github.com/McQueen-Sally/UX_CaseStudy)
 
 
 [img Proyecto]
@@ -24,24 +23,14 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
-
-
-
-
-
-
-
-
+ * :bust_in_silhouette: [ Jose Vera Castillo ](https://github.com/VeraJose05)    :octocat:     
+ * :bust_in_silhouette: [ David Pérez Tobarra](https://github.com/ParadoxalGlitch)     :octocat:
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
 [Incluir un breve resumen el propósito de la App]
 
- 
-
+El objetivo es fomentar y hacer más accesible la donación y la adquisición de prendas de segunda mano, ofreciendo un espacio específico dentro de la página de moda-re destinado a la compra y venta de ropa usada. Este punto de intercambio permitirá a los usuarios contribuir a la economía circular, alargar la vida útil de las prendas y participar activamente en un modelo de consumo más sostenible y responsable con el medio ambiente.
 
 
 ## 2 RESUMEN EJECUTIVO
@@ -70,7 +59,15 @@ y Resumen conciso de problemas detectados ]
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+A continuación tenemos una tabla con los datos de las personas que han participado en el A/B Testing.
+       
+|   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+|#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|
+|1|Mujer 21|Estudiante|[Intermedio]|Movil|[A]
+|2|Hombre 25|Estudiante|[Intermedio]|Windows|[B]
+|3|Hombre 20|Estudiante|[Básico]|Movil|[B]
+|4|Mujer 21|Estudiante|Avanzada|Linux|[A]
 
 
 
@@ -79,18 +76,13 @@ y Resumen conciso de problemas detectados ]
 #### Resultados obtenidos
 
 
+#### Eye Tracking
 
-(resultado de SUS)
+#### Conclusiones del eye tracking
 
+#### Cuestionario SUS (System Usability Scale Test)
 
-
-(resultado de eyetracking)
-
-
-
-
-
-
+#### Conclusiones del cuestionario SUS
 
 
 
