@@ -109,14 +109,6 @@ Tras las pruebas de usabilidad realizadas —incluyendo sesiones de test con usu
 
 #### Valoración 
 
-Las técnicas empleadas en este estudio han resultado **altamente útiles para detectar fallos de usabilidad** que podrían haber pasado desapercibidos durante la fase de diseño.
-
-Gracias al **eye tracking** se han podido identificar puntos calientes de atención que no se traducían en acciones, lo cual permitió descubrir **problemas en la comprensión del flujo**. Además, el **feedback directo de los usuarios** reveló que algunas decisiones de interfaz, como la colocación o el texto de ciertos elementos clave, generaban confusión.
-
-En definitiva, la combinación de métodos cuantitativos y cualitativos ha proporcionado **una visión completa del comportamiento del usuario**, permitiendo proponer soluciones fundamentadas y realistas. Este proceso ha demostrado ser esencial para **mejorar la experiencia global y optimizar el diseño de cara a futuras versiones** del producto.
-
-
-
 #### Recomendaciones y propuesta de mejoras: 
 
 - ✅ Cambiar el texto del botón **"Tu Moda-Re"** por algo más claro como **"Inicia sesión"** si es obligatorio registrarse para comenzar a navegar.
@@ -126,11 +118,9 @@ En definitiva, la combinación de métodos cuantitativos y cualitativos ha propo
 
 Estas mejoras permitirían una experiencia más intuitiva, clara y alineada con las expectativas de los usuarios desde los primeros pasos dentro de la aplicación.
 
-
-
-
-
-
-
 #### Valoración de la prueba de usabilidad (self-assesment)
+Las técnicas empleadas en este estudio han resultado **altamente útiles para detectar fallos de usabilidad** que podrían haber pasado desapercibidos durante la fase de diseño.
 
+Gracias al **eye tracking** se han podido identificar puntos calientes de atención que no se traducían en acciones, lo cual permitió descubrir **problemas en la comprensión del flujo**. Además, el **feedback directo de los usuarios** reveló que algunas decisiones de interfaz, como la colocación o el texto de ciertos elementos clave, generaban confusión.
+
+En definitiva, la combinación de métodos cuantitativos y cualitativos ha proporcionado **una visión completa del comportamiento del usuario**, permitiendo proponer soluciones fundamentadas y realistas. Este proceso ha demostrado ser esencial para **mejorar la experiencia global y optimizar el diseño de cara a futuras versiones** del producto.
