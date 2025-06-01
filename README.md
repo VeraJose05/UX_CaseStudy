@@ -276,7 +276,7 @@ El test sus nos permitirá medir la usabilidad de ambas plataformas. El test SUS
 
 A continuación, se presentan las puntuaciones obtenidas:
 
-![](tabla_sus.png)
+![](P4/tabla_sus.png)
 
 
 #### Conclusiones
@@ -307,12 +307,12 @@ Este estudio de eye tracking se realizó con el objetivo de analizar el comporta
 - Añadir una prenda de ropa al carrito y completar el proceso de compra.
 - Vender una prenda de ropa.
 
-![](eyetracking/b1.png)
-![](eyetracking/b2.png)
+![](P4/eyetracking/b1.png)
+![](P4/eyetracking/b2.png)
 
 
 
-![experimento](img/experimentoET.png)  
+![experimento](P4/img/experimentoET.png)  
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
@@ -325,7 +325,7 @@ El informe de usabilidad del Caso B, "Monedas-Re, prendas para todos" es en gene
 
 Los resultados del test de usabilidad realizados por un total de 3 personas, muestran entre otros problemas que es bastante común el ignorar por completo el boton de "Tu moda-re" de la página inicial, por no entender que es el botón principal que hay que pulsar para poder registrarse y empezar a navegar.
 
-El Usability Report para el Caso B completo se eneuntra en el archivo [Usability-Report.md](Usability-Report.md).
+El Usability Report para el Caso B completo se eneuntra en el archivo [Usability-Report.md](P4/Usability-Report.md).
 
 
 <br>
