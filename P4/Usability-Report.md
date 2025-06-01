@@ -93,6 +93,8 @@ El test sus nos permitirá medir la usabilidad de ambas plataformas. El test SUS
 
 A continuación, se presentan las puntuaciones obtenidas:
 
+![](tabla_sus.png)
+
 #### Conclusiones del cuestionario SUS
 
 
