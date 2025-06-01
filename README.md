@@ -262,7 +262,7 @@ A continuación tenemos una tabla con los datos de las personas que han particip
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Se va a realizar un formulario con preguntas de interés general sobre su comportamiento en ámbitos que tienen relación con ambos casos, seguido de un par de actividades para cada caso que se explicarán más abajo junto con su respectivo analisis de eyetracking, y por último el test SUS. 
 
 
 
@@ -278,16 +278,10 @@ A continuación, se presentan las puntuaciones obtenidas:
 
 ![](P4/tabla_sus.png)
 
-
-#### Conclusiones
-
-
-### 4.d A/B Testing
+### 4.d A/B Testing y Conclusiones del Cuestionario SUS
 ![Método UX](img/ABtesting.png) 
 -----
-
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
-
+Observando los resultados obtenidos en los distintos cuestionarios, podemos decir que el Caso A es más usable que el caso A, aunque la disparidad observable deja claro que los datos no son suficientes y harían falta cientos de test más para tener una idea mas fiable.
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
@@ -322,31 +316,6 @@ El Usability Report para el Caso B completo se eneuntra en el archivo [Usability
 
 
 <br>
-
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
-## Conclusiones finales & Valoración de las prácticas
-
-
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
-
 
 
 
