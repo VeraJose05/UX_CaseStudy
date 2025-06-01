@@ -311,13 +311,6 @@ Este estudio de eye tracking se realizó con el objetivo de analizar el comporta
 ![](P4/eyetracking/b2.png)
 
 
-
-![experimento](P4/img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
-
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
