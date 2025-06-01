@@ -16,14 +16,13 @@ Para llevar a cabo el A/B Testing, hemos seleccionado a un pequeño grupo de tes
 
 A continuación tenemos una tabla con los datos de las personas que han participado en el A/B Testing.
        
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|
-|1|Mujer 21|Estudiante|[Intermedio]|Movil|[A]|
-|2|Hombre 25|Estudiante|[Intermedio]|Windows|[B]|
-|3|Hombre 20|Estudiante|[Básico]|Movil|[B]|
-|4|Mujer 21|Estudiante|Avanzada|Linux|[A]|
-
+| #id. usuario | Sexo/edad | Ocupación | Experiencia internet | Plataforma | Perfil cubierto |
+|--------------|------------|-----------|------------------------|-------------|------------------|
+| 1            | Mujer 21   | Estudiante| Intermedio            | Móvil       | A                |
+| 2            | Hombre 25  | Estudiante| Intermedio            | Windows     | B                |
+| 3            | Hombre 20  | Estudiante| Básico                | Móvil       | B                |
+| 4            | Mujer 21   | Estudiante| Avanzada              | Linux       | A                |
+| 5            | Mujer 45   | Limpiadora| Básica                | Linux       | B                |
 
 
 El primer formulario contiene las siguientes preguntas, e incluiremos tras cada una los resultados que hemos recibido tras realizar el test a los distintos usuarios:
@@ -88,6 +87,10 @@ Este estudio de eye tracking se realizó con el objetivo de analizar el comporta
 ### Caso 2
 - Añadir una prenda de ropa al carrito y completar el proceso de compra.
 - Vender una prenda de ropa.
+
+![](eyetracking/b1.png)
+![](eyetracking/b2.png)
+
 
 Las pruebas se realizaron utilizando la herramienta **Gaze Recorder**
 
