@@ -103,11 +103,20 @@ A continuación, se presentan las puntuaciones obtenidas:
 
 
 #### Conclusiones
+Con los datos extraidos, antes de nada, debemos tener en cuenta que 5 personas (2 y 3) son muy pocas para poder tener una valoración exacta y fiable de la usabilidad de cada caso. Podremos ver que los resultados son bastante dispares de un caso a otro, y a pesar de eso, estamos seguros de que no son 100% representativos y que con más datos podría variar la puntuación significativamente. El Caso B ha tenido un usuario el cual ha chocado mucho con el diseño en general, a pesar de tener un diseño mas que válido, que se merece una nota mucho superior que la recibida, mientras que los usuarios del Caso A han conseguido resonar bastante con su diseño, por lo que es normal que la disparidad sea alta, a pesar de que claramente el diseño tiene sus fallos y seguramente se merezca menos nota de la recibida.
+
+Como critica personal, quizas deberíamos escoger más usuarios la proxima vez, y con una demografía mas distinta, pero nos fué imposible cumplir esto.
+
+Una vez dicho eso, podemos concluir que el Caso A tiene una media de 92.6, lo cual lo deja, según la escala SUS, en aceptable. Y el Caso B tiene una media de 60, que lo dejaría en marginal.
+
+
+
+
+
 ## 5. Usability report
 El informe de usabilidad del Caso B, "Monedas-Re, prendas para todos" es en general positivo, aunque con algunos puntos negativos a destacar que se han ido revelando a lo largo del A/B Testing. Se ha notado durante la realización de las distintas actividades que la interfaz de la aplicación puede no ser muy intuitiva y llevar a bucles entre menús.
 
 Los resultados del test de usabilidad realizados por un total de 3 personas, muestran entre otros problemas que es bastante común el ignorar por completo el boton de "Tu moda-re" de la página inicial, por no entender que es el botón principal que hay que pulsar para poder registrarse y empezar a navegar.
 
 El Usability Report para el Caso B completo se eneuntra en el archivo [Usability-Report.md](Usability-Report.md).
-## 6. Conclusiones
 
