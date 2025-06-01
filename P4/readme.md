@@ -31,6 +31,9 @@ Este estudio de eye tracking se realizó con el objetivo de analizar el comporta
 ### Caso 1
 - Reservar un taller.
 - Publicar un post en una comunidad (o, alternativamente, comentar en uno ya existente).
+![](eyetracking/a1.png)
+![](eyetracking/a2.png)
+
 
 ### Caso 2
 - Añadir una prenda de ropa al carrito y completar el proceso de compra.
@@ -39,7 +42,11 @@ Este estudio de eye tracking se realizó con el objetivo de analizar el comporta
 Las pruebas se realizaron utilizando la herramienta **Gaze Recorder**
 
 ### 4.2. Cuestionario SUS (System Usability Scale Test)
+Esta herramienta nos permitirá evaluar la usabilidad de ambas plataformas. Para ello, los usuarios que participaron en el estudio responderán a un breve cuestionario.
 
+Se utilizará el cuestionario SUS (System Usability Scale), compuesto por 10 afirmaciones con respuestas en una escala de 5 niveles, que van desde "Totalmente en desacuerdo" hasta "Totalmente de acuerdo". Estas preguntas están pensadas para obtener una visión general sobre la facilidad de uso del sistema.
+
+A continuación, se presentan las puntuaciones obtenidas:
 ## 5. Usability report
 
 ## 6. Conclusiones
