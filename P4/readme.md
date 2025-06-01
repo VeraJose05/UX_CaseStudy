@@ -11,7 +11,48 @@ El punto de partida serán dos diseños web: uno será nuestra propia propuesta 
 Se nos ha asignado el grupo **DIU3.McQueen&Sally**. Link del GitHub: https://github.com/McQueen-Sally/UX_CaseStudy
 
 
-## 3. Reclutamiento de participantes estudio 
+## 3. Reclutamiento de participantes estudio
+Para llevar a cabo el A/B Testing, hemos seleccionado a un pequeño grupo de testers que realizarán una serie de pruebas: un formulario con preguntas de interés general sobre su comportamiento en ámbitos que tienen relación con ambos casos, una serie de actividades precedidas de un proceso de eyetracking, y un cuestionario SUS para evaluar la usabilidad del caso que han probado.
+
+El primer formulario contiene las siguientes preguntas:
+
+En cuales de estas actividades pasas más tiempo a lo largo de la semana?
+- Leer libros o ver series
+- Hacer deporte
+- Ir de compras
+- Other
+- Salir a comer por ahí
+- Usar las redes sociales
+
+Te gustan más las actividades en grupo o en solitario?
+- En Grupo
+- En solitario
+
+¿En qué tipo de experiencias o productos prefieres gastar tu dinero?
+- Comida
+- Tecnología
+- Ropa
+- Talleres o eventos en grupo
+- Viajes
+
+¿Qué valoras más en una experiencia o compra?
+- Calidad
+- Conveniencia
+- Exclusividad
+- Precio
+- Sostenibilidad
+
+
+¿Qué te motiva más a probar una nueva actividad?
+- Curiosidad Personal
+- Recomendaciones de amigos
+- Influencers / Personas Famosas
+- Promociones / Descuentos
+- Redes sociales
+
+
+
+
 A continuación tenemos una tabla con los datos de las personas que han participado en el A/B Testing.
        
 |   |   |   |   |   |   |   |   |
@@ -22,9 +63,11 @@ A continuación tenemos una tabla con los datos de las personas que han particip
 |3|Hombre 20|Estudiante|[Básico]|Movil|[B]|
 |4|Mujer 21|Estudiante|Avanzada|Linux|[A]|
 
+
+
 ## 4. Pruebas diseñadas
 ### 4.1. Eye tracking
-Este estudio de eye tracking se realizó con el objetivo de analizar el comportamiento visual de los usuarios mientras completan dos tareas diferentes en dos casos distintos.
+Este estudio de eye tracking se realizó con el objetivo de analizar el comportamiento visual de los usuarios mientras completan dos tareas diferentes en dos casos distintos. En nuestro caso, se les muestra un par de imágenes relacionadas sobre la actividad que van a realizar para monitorizar los puntos en los que más se fijan, para después analizarlo
 
 ## Tareas evaluadas
 
@@ -37,16 +80,17 @@ Este estudio de eye tracking se realizó con el objetivo de analizar el comporta
 
 ### Caso 2
 - Añadir una prenda de ropa al carrito y completar el proceso de compra.
-- Vender una prenda de ropa. *(Esta tarea está pendiente de revisión para confirmar su ejecución).*
+- Vender una prenda de ropa.
 
 Las pruebas se realizaron utilizando la herramienta **Gaze Recorder**
 
 ### 4.2. Cuestionario SUS (System Usability Scale Test)
-Esta herramienta nos permitirá evaluar la usabilidad de ambas plataformas. Para ello, los usuarios que participaron en el estudio responderán a un breve cuestionario.
-
-Se utilizará el cuestionario SUS (System Usability Scale), compuesto por 10 afirmaciones con respuestas en una escala de 5 niveles, que van desde "Totalmente en desacuerdo" hasta "Totalmente de acuerdo". Estas preguntas están pensadas para obtener una visión general sobre la facilidad de uso del sistema.
+El test sus nos permitirá medir la usabilidad de ambas plataformas. El test SUS se basa en unas 10 preguntas cortas sobre la experiencia del usuario en la página. Estas se pueden valorar desde 1 hasta 10, según el grado de conformidad o acuerdo con la pregunta. De ser negativa, se valorará como nota mas alta el número más bajo y viceversa.
 
 A continuación, se presentan las puntuaciones obtenidas:
+
+
+
 
 #### Conclusiones
 ## 5. Usability report
