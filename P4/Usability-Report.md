@@ -46,7 +46,9 @@ Mas allá de estos problemas, el resto de la navegación fué bastante clara y s
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+La metodología empleada en este estudio se ha basado en una combinación de técnicas orientadas a evaluar la usabilidad de dos versiones del prototipo a través de un enfoque comparativo mediante A/B Testing. Además, se complementó con otros métodos como el cuestionario SUS (System Usability Scale), el eye tracking y una checklist de usabilidad para obtener una visión más completa y detallada de la experiencia del usuario.
+
+Para llevar a cabo estas pruebas, se seleccionó a un grupo de personas de nuestro entorno con distintos perfiles. Esta elección buscó mantener una perspectiva imparcial, evitando que nuestro propio conocimiento sobre el producto influyera en las decisiones de quienes participaron en los tests, y asegurando así una evaluación más realista y centrada en el usuario final.
 
 #### Test de usuarios: Participantes
 
@@ -59,7 +61,7 @@ A continuación tenemos una tabla con los datos de las personas que han particip
 |2|Hombre 25|Estudiante|[Intermedio]|Windows|[B]
 |3|Hombre 20|Estudiante|[Básico]|Movil|[B]
 |4|Mujer 21|Estudiante|Avanzada|Linux|[A]
-54|Mujer 45|Limpiadora|Básica|Linux|[B]
+|5|Mujer 45|Limpiadora|Básica|Linux|[B]
 
 
 
@@ -101,7 +103,7 @@ A continuación, se presentan las puntuaciones obtenidas:
 ## 4 CONCLUSIONES 
 
 
-Tras las pruebas de usabilidad realizadas —incluyendo sesiones de test con usuarios, análisis de interacción y estudios de eye tracking— podemos extraer las siguientes conclusiones generales:
+Tras las pruebas de usabilidad realizadas podemos extraer las siguientes conclusiones generales:
 
 - La interfaz ha sido valorada positivamente por su diseño limpio, su contraste adecuado y la claridad de los iconos y tipografías.
 - No obstante, existen elementos clave cuya funcionalidad no se percibe con claridad por parte de los usuarios, especialmente el botón **"Tu Moda-Re"**, el cual, pese a captar la atención visual, **no invita a la interacción** debido a una falta de contexto o claridad en su propósito.
